@@ -15,4 +15,3 @@ resources/application.properties
     ./gradlew build
 ### 4. Test: 
      ./gradlew test
-    # prova-nt
